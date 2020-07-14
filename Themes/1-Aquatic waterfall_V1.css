@@ -1,0 +1,136 @@
+/* Theme 1: Aquatic waterfall (official SNU variation) */
+/* Themes are customizable. */
+/*
+This theme brings a beautiful waterfall and aquatic feel to SNU.
+*/
+/* Start of script */
+/* Boxes V1 */
+/* Uppercase */
+transbox { /* Transparent box */
+	color: blue;
+}
+/* Lowercase */
+transbox { /* Transparent box */
+	color: blue;
+}
+/* Markup 1 V1 */
+/* Uppercase (very rarely used) */
+P { /* Paragraph */
+	color: unknown;
+}
+I { /* Italic */
+	color: unknown;
+}
+B { /* Bold */
+	color: unknown;
+}
+U { /* Underline */
+	color: unknown;
+}
+S { /* Strikethrough */
+	color: unknown;
+}
+/* Lowercase (most commonly used) */
+p { /* Paragraph */
+	color: unknown;
+}
+i { /* Italic */
+	color: unknown;
+}
+b { /* Bold */
+	color: unknown;
+}
+u { /* Underline */
+	color: unknown;
+}
+s { /* Strikethrough */
+	color: unknown;
+}
+/* Headings V1 */
+/* Capitalized */
+H1 { /* Heading 1 */
+	color: unknown;
+}
+H2 { /* Heading 2 */
+	color: unknown;
+}
+H3 { /* Heading 3 */
+	color: unknown;
+}
+H4 {/* Heading 4 */
+	color: unknown;
+}
+H5 {/* Heading 5 */
+	color: unknown;
+}
+H6 {/* Heading 6 */
+	color: unknown;
+}
+/* Lowercase (rarely used) */
+h1 { /* Heading 1 */
+	color: unknown;
+}
+h2 { /* Heading 2 */
+	color: unknown;
+}
+h3 { /* Heading 3 */
+	color: unknown;
+}
+h4 { /* Heading 4 */
+	color: unknown;
+}
+h5 { /* Heading 5 */
+	color: unknown;
+}
+h6 { /* Heading 6 */
+	color: unknown;
+}
+/* Markup 2 V1 */
+/* Uppercase (rarely used, and commonly used) */
+A { /* Hyperlink */
+	color: lime;
+}
+SUP { /* Superscript */
+	color: unknown;
+}
+SUB { /* Subscript */
+	color: unknown;
+}
+DETAILS { /* Details pane */
+	color: unknown;
+}
+HR { /* Divider */
+	color: unknown;
+}
+/* Lowercase (commonly used) */
+a { /* Hyperlink */
+	color: lime;
+}
+sup { /* Superscript */
+	color: unknown;
+}
+SUB { /* Subscript */
+	color: unknown;
+}
+details { /* Details pane */
+	color: white;
+}
+hr { /* Divider */
+	color: unknown;
+}
+/* Buttons V1 */
+/* Uppercase */
+BUTTON {
+	color: grey; /* Gray */
+}
+/* Lowercase */
+button {
+	color: gray; /* Grey */
+}
+/* Section # */
+/* Uppercase only */
+/* No content available */
+/* Lowercase only */
+/* No content available */
+/* End of script */
+/* End of stylesheet */

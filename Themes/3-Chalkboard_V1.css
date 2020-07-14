@@ -1,0 +1,142 @@
+/* Theme 3: Chalkboard (official SNU variation) */
+/* Themes are customizable. */
+/*
+This theme brings an oldschool feel to SNU, chalky text, and a blackboard background. No-one really uses them anymore, but it acts as a unique dark theme. .1.8.4.2.
+*/
+/*
+Ideas to implement:
+Box border: wood
+Text: fuzzy, like chalk
+*/
+/* Start of script */
+/* Boxes V1 */
+/* Uppercase */
+TRANSBOX { /* Transparent box */
+	color: black;
+}
+/* Lowercase */
+transbox { /* Transparent box */
+	color: black;
+}
+/* Markup 1 V1 */
+/* Uppercase (very rarely used) */
+P { /* Paragraph */
+	color: white;
+}
+I { /* Italic */
+	color: white;
+}
+B { /* Bold */
+	color: white;
+}
+U { /* Underline */
+	color: white;
+}
+S { /* Strikethrough */
+	color: white;
+}
+/* Lowercase (most commonly used) */
+p { /* Paragraph */
+	color: white;
+}
+i { /* Italic */
+	color: white;
+}
+b { /* Bold */
+	color: white;
+}
+u { /* Underline */
+	color: white;
+}
+s { /* Strikethrough */
+	color: white;
+}
+/* Headings V1 */
+/* Capitalized */
+H1 { /* Heading 1 */
+	color: white;
+}
+H2 { /* Heading 2 */
+	color: white;
+}
+H3 { /* Heading 3 */
+	color: white;
+}
+H4 {/* Heading 4 */
+	color: white;
+}
+H5 {/* Heading 5 */
+	color: white;
+}
+H6 {/* Heading 6 */
+	color: white;
+}
+/* Lowercase (rarely used) */
+h1 { /* Heading 1 */
+	color: white;
+}
+h2 { /* Heading 2 */
+	color: white;
+}
+h3 { /* Heading 3 */
+	color: white;
+}
+h4 { /* Heading 4 */
+	color: white;
+}
+h5 { /* Heading 5 */
+	color: white;
+}
+h6 { /* Heading 6 */
+	color: white;
+}
+/* Markup 2 V1 */
+/* Uppercase (rarely used, and commonly used) */
+A { /* Hyperlink */
+	color: yellow;
+}
+SUP { /* Superscript */
+	color: white;
+}
+SUB { /* Subscript */
+	color: white;
+}
+DETAILS { /* Details pane */
+	color: white;
+}
+HR { /* Divider */
+	color: white; /* Black and yellow */
+}
+/* Lowercase (commonly used) */
+a { /* Hyperlink */
+	color: yellow;
+}
+sup { /* Superscript */
+	color: white;
+}
+sub { /* Subscript */
+	color: white;
+}
+details { /* Details pane */
+	color: white;
+}
+hr { /* Divider */
+	color: white; /* Black and yellow */
+}
+/* Buttons V1 */
+/* Uppercase */
+BUTTON {
+	color: white; /* Gray */
+}
+/* Lowercase */
+button {
+	color: white; /* Grey */
+}
+/* Section # */
+/* Uppercase only */
+/* No content available */
+/* Lowercase only */
+/* No content available */
+/* End of script */
+/* End of stylesheet */
+/* Note: leave a pun in the description of each stylesheet, it will be an inside developer joke */
